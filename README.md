@@ -235,10 +235,10 @@ Discogs | http://www.discogs.com/jobs
 Doist | https://doist.com/jobs/
 Elastic | https://www.elastic.co/about/careers
 GovSpend | https://govspend.com/careers/#openpositions
-GraphCMS | https://jobs.graphcms.com
 Gruntwork | https://gruntwork.io/careers/
 Heroku | https://www.heroku.com/
 Hivelocity | https://www.hivelocity.net/about/careers/
+Hygraph | https://jobs.hygraph.com
 IBM | http://www.ibm.com/br-pt/
 Indeed | https://www.indeed.com/
 Jobsity | https://www.jobsity.com/
